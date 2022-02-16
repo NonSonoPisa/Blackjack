@@ -11,7 +11,6 @@ Nello sfortunato caso finiscano entrambi le carte durante la guerra, il mazzo vi
 sufficienti anche con i mazzi vincita perché la guerra continui, si ha una ritirata e tutte le carte tornano al legittimo proprietario. Nel caso uno dei due giocatori non possa
 completare la guerra ha perso e la vittoria va all'altro. Se una persona, finito il proprio mazzo attuale, non ha carte nel mazzo vincita perde la partita. 
 
-|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
 |SPIEGAZIONE DEI METODI|
 |----------------------|
 
