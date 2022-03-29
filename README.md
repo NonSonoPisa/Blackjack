@@ -18,6 +18,7 @@ ________________________________________________________________________________
 |----------------------|
 
 Per la perte grafica abbiamo lavorato con l'editor "android studio" che ci ha permesso di lavorare con un'anteprima del programma e di poter inserire oggetti al suo interno. Infatti oltre che inserire al suo interno gli oggetti potevamo dall'anteprima inserire proprietà per essi. 
+All'interno della nostra anteprima abbiamo inserito 2 <imageView> che sono le due "celle" che contengono le immagini della carta coperta inizialmente e che poi contengono la carta da gioco in sé, un button "deal" che attiva la funzione onclick() e scopre le due carte coperte nell'imageView e poi per finire due <textview> che contengono il punteggio dei due giocatori. Inoltre abbiamo potuto lavorare all'app come un sito online e quindi abbiamo potuto inserire il background-color e le immagini delle carte e sistemarle tramite l'anteprima. 
 ______________________________________________________________________________________________________________________________________________________________________
 
 
