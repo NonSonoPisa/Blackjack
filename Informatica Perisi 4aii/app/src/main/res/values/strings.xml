@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BlackJack</string>
+    <string name="button">GIOCA</string>
+    <string name="nomePlayer">Inserire nome</string>
+</resources>
