@@ -5,8 +5,6 @@ L'idea è molto semplice: Ogni giocatore ha 26 carte casuali. Abbiamo un'immagin
 ______________________________________________________________________________________________________________________________________________________________________
 
 
-
-
 ______________________________________________________________________________________________________________________________________________________________________
 |        ALPHA         |
 |----------------------|
@@ -15,13 +13,11 @@ In questo caso abbiamo deciso di creare un alpha per simulare il gioco senza la 
 ______________________________________________________________________________________________________________________________________________________________________
 
 
-
-
 ______________________________________________________________________________________________________________________________________________________________________
 |    PARTE GRAFICA     |
 |----------------------|
 
-Per la perte grafica abbiamo lavorato con l'editor "android studio" che ci ha permesso di lavorare 
+Per la perte grafica abbiamo lavorato con l'editor "android studio" che ci ha permesso di lavorare con un'anteprima del programma e di poter inserire oggetti al suo interno. Infatti oltre che inserire al suo interno gli oggetti potevamo dall'anteprima inserire proprietà per essi. 
 ______________________________________________________________________________________________________________________________________________________________________
 
 
