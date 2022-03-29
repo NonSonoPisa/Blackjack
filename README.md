@@ -1,6 +1,5 @@
 # WAR
-A beautiful and nice program that simulates the blackjack game. This is in coop with @Pietro1893
-OK. L'idea del programma non è più quella di simulare il gioco di blackjack ma bensì di utilizzare le regole del gioco "Guerra"
+A beautiful and nice program that simulates the war game. This is in coop with @Pietro1893
 L'idea è molto semplice: Ogni giocatore ha 26 carte casuali. Abbiamo un'immagine per ogni carta (quindi solo un seme ex: ho solo un asso che è quello di fiori. 
 Non utilizzo cuori, picche e denari) perché in questo gioco i semi non contano. Per esempio un 5 di cuori ha lo stesso valore di un 5 di fiori. La carta con il valore 
 più alto vince. All'inizio del gioco abbiamo le carte coperte e un button che attiva la funzione scopri(). Così facendo estrae una carta a caso tra le 26 nel mazzo e 
