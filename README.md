@@ -52,7 +52,7 @@ Abbiamo deciso di iniziare a programmare la Beta del programma. Ciò porterà ai
   
     Nuovi dorsi per le carte adattati alla dimensione del background. 
   
-  Nuova icona del gioco sul desktop. 
+    Nuova icona del gioco sul desktop. 
   
 -Bug fixing: 
   
