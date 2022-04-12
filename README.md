@@ -37,5 +37,26 @@ ________________________________________________________________________________
 |----------------------|  
 
 Abbiamo deciso di iniziare a programmare la Beta del programma. Ciò porterà ai seguenti update:
--Mazzo di carte limitato e punteggio che non va fino a che uno dei due arrivi a 26 ma bensì fino a che il mazzo non arrivi alla fine. 
--Tutti i tipi di carte: All'interno del mazzo saranno inserite tutte e 52 le carte da gioco classiche. 
+  
+-Mazzo di carte 
+  
+                Viene aggiunto un nuovo mazzo che sarà limitato
+  
+                Punteggio che non va fino a che uno dei due arrivi a 26 ma bensì fino a che il mazzo non arrivi alla fine. 
+  
+-Tutti i tipi di carte:
+  
+                 All'interno del mazzo saranno inserite tutte e 52 le carte da gioco classiche. 
+
+-Nuove grafiche:
+  
+                 Nuovi dorsi per le carte adattati alla dimensione del background. 
+  
+                 Nuova icona del gioco sul desktop. 
+  
+-Bug fixing: 
+  
+             Risolto il bug per cui la partita veniva resettata automaticamente alla fine senza avere una wait. 
+             
+             Risolto il bug che permetteva di schiacciare a ripetizione il tasto "deal" e che mandava in tilt il sistema.  
+______________________________________________________________________________________________________________________________________________________________________
